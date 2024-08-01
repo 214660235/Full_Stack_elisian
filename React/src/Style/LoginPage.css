@@ -1,0 +1,221 @@
+body {
+  background-color: white; 
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.right-side {
+  flex: 1;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 100vh; 
+}
+
+.login-form {
+  width: 500px; 
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white; 
+}
+
+.login-form h2 {
+  margin-bottom: 70px; 
+  color: #3949AB;
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 0; 
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 358px; 
+  height: 40px; 
+  gap: 0px;
+  opacity: 1;
+  margin: 10px 0;
+  padding: 0 10px; 
+}
+
+.input-container .icon {
+  width: 20px;
+  height: 20px; 
+  margin-right: 10px;
+}
+
+.input-container input {
+  width: 100%;
+  border: none;
+  outline: none;
+}
+
+.password-toggle {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.eye-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.forgot-password {
+  display: block;
+  margin: 5px 0 15px 0; 
+  text-align: right;
+  color: #4a4db8;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  align-self: flex-end; 
+  margin-right: 10%; 
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}
+
+.login-button {
+  width: 358px;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 20px;
+  border: 1px solid #9FA5D1;
+  background-color: #9FA5D1;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #8e94ce;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.divider-line {
+  width: 100px;
+  height: 1px;
+  background-color: #d3d3d3;
+  margin: 0 10px;
+}
+
+.divider-text {
+  margin: 0 10px;
+  color: #7B7B7B;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.alternative-login {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.google-login, .facebook-login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 20px;
+  border: 1px solid #4a4db8;
+  background-color: white;
+  color: #4a4db8;
+  padding: 8px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 220px;
+}
+
+.google-login .icon, .facebook-login .icon {
+  width: 25px;
+  height: 25px;
+}
+
+.google-login:hover, .facebook-login:hover {
+  background-color: #f1f1f1;
+}
+
+.no-account {
+  margin: 20px 0;
+  font-size: 14px;
+  color: #7B7B7B;
+  font-weight: 600;
+}
+
+.register-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+  margin-top: 5px;
+}
+
+.register-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 358px;
+  height: 40px;
+  padding: 0 24px;
+  gap: 8px;
+  border-radius: 20px;
+  border: 1px solid #4a4db8;
+  background-color: transparent;
+  color: #4a4db8;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.register-button:hover {
+  text-decoration: underline;
+}
+.right-side {
+}
+
+.login-form {
+}
+
+.toast-message {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.close-toast-button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 10px;
+}

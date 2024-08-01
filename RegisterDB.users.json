@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "66a99c77c9f9d7df4e3484b0"
+  },
+  "email": "vfe@gmail.com",
+  "password": "scrypt:32768:8:1$xuElcZ7246HE3xSA$e6311acb9aaff9b6e4126a4b4af72c963f14756f7170c368d78c1e135b0ef4952fe619e52477d61f44e87bcb886aee0ec6c715d03dba16a7b7d2df8c9f8d2d95",
+  "google_id": ""
+},
+{
+  "_id": {
+    "$oid": "66a9a78c0fb4b325070e8579"
+  },
+  "email": "ruti8000@goup.org.il",
+  "password": "scrypt:32768:8:1$z11cGlbNRUYfIDhc$5b00fe69cba6aa30a3cf7578cdedb15c758fd5b6bbe576bb30269c4646c7509f5032ef5e1be677eecb4535f1bc55c686468aea11e623487c616857f8ed11c5d8",
+  "google_id": ""
+},
+{
+  "_id": {
+    "$oid": "66a9a9df3c2dceca1bc83664"
+  },
+  "email": "micsharo@g.jct.ac.il",
+  "google_id": "117163274551621264264",
+  "password": "scrypt:32768:8:1$HLnKmaHegnFbymgj$09e3b1f26c0bda224be4ca40b0296722065bbf21e4ebed514625315d320aad3ccb7ce92e5bf765eae49295e00d6d17561b58ecc564cd930186b941b855195bfa"
+},
+{
+  "_id": {
+    "$oid": "66a9ad332a039da3adc80ff7"
+  },
+  "email": "chanitwin366@gmail.com",
+  "google_id": "111052937516762314776",
+  "password": "scrypt:32768:8:1$IfOrqkztmPtvLOze$e1c8370d2d04ce029a1c4e4c8b449dbbbf9d372698051e01351dd47202d79e6abee38772f68d3f8f2d03713c53a8c6f2d6c5e369b48a554560ddd7707f3adc7c",
+  "reset_token": "aHSOf3kuv4QyCzR2Gtxr"
+},
+{
+  "_id": {
+    "$oid": "66aaa9eca679a5f3e3b7a7db"
+  },
+  "email": "devoraravitz69@gmail.com",
+  "google_id": "112508869754481363287",
+  "password": "scrypt:32768:8:1$iR8vFDuyIzFcdeMd$ae6526ccaf92642dea22b0690faa906cc08480ac1504ed545089035bfb653691e8c832e07b87815cbd0f51b5b96ecc7e73efd35775deb521a0e14eac5638c7ec"
+},
+{
+  "_id": {
+    "$oid": "66aab079a679a5f3e3b7a7dc"
+  },
+  "email": "beetwi55n69@gmail.com",
+  "password": "scrypt:32768:8:1$JfAFhxVsTdKNzj9B$c566d743e1cf105c16f3fbb2bc282ad5215b201220f0ef23874e9d41dae13e07d0ef5db693bc7c2a607d8c63aaac45bcdb553ac480453ad791a8787cabcba72b",
+  "google_id": ""
+},
+{
+  "_id": {
+    "$oid": "66ab0e1d2974e04334277611"
+  },
+  "email": "ruti@goup.org.il",
+  "google_id": "104193498357697872769",
+  "password": ""
+},
+{
+  "_id": {
+    "$oid": "66ab0e852974e04334277612"
+  },
+  "email": "ggg@gmail.com",
+  "password": "scrypt:32768:8:1$hrjMK6G3pCveklxK$a0d24fa4d2fa9275b3d50c0b5473640d8347e4f9f51943f5b11b6c9967694f7f563b1755b8bae981702a0a4a68daf6e3e743e2931070efdc74f84943a6ac7e82",
+  "google_id": ""
+},
+{
+  "_id": {
+    "$oid": "66ab0eaf2974e04334277613"
+  },
+  "email": "ggeeeg33@gmail.com",
+  "password": "scrypt:32768:8:1$wh2FMkTstwI9Kz45$166e6d9f28c5be9b4febdf094623736976af7e52ab47902406d627b584efdaa20d2e685fb6b26c129b3bb2df7e320ff82e85971edc61e933bb7f20413b317f41",
+  "google_id": ""
+}]

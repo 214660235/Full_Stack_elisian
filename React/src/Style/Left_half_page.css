@@ -1,0 +1,31 @@
+.login-page {
+  display: flex;
+  flex-direction: column;
+  width: 910px;
+  height: 765px;
+  background-color: #4a4db8;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  border-radius: 24px 0px 0px 24px;
+}
+
+.icon-container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.icon {
+  width: 50px; 
+}
+
+.welcome-message {
+  text-align: center;
+}
+
+.welcome-image {
+  width: 357px; 
+  margin-bottom: 20px;
+}
